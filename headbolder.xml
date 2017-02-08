@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="plugin" group="content" method="upgrade">
+	<name>Header text bolder</name>
+	<author>Dmitriy Blokhin</author>
+	<creationDate>Feb 8th, 2017</creationDate>
+	<copyright>Copyright (c) Webjinn</copyright>
+	<authorEmail>info@webjinn.ru</authorEmail>
+	<authorUrl>www.webjinn.net</authorUrl>
+	<version>0.4</version>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<description>Bold article title text by /<b/> tag. Example article title: #Some bold words# and others.</description>
+	<files>
+		<filename plugin="headbolder">headbolder.php</filename>
+	</files>
+	<config>
+	</config>
+</extension>
